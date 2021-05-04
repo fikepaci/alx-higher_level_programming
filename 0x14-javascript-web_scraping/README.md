@@ -1,0 +1,2 @@
+# 0x14. Javascript - Web scraping
+## This project involved practicing file I/O on Node.js 
